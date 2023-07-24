@@ -16,7 +16,7 @@ Welcome to Hoobank Landing Page, a stylish and modern web application built usin
 
 ## Links
 * Solution Link [Here](https://github.com/kizitech/HooBank)
-* Live Link [Here]()
+* Live Link [Here](https://kizitech-hoobank.netlify.app/)
 
 ## Table of Contents
 
@@ -71,7 +71,7 @@ To run Hoobank on your local development server, use the following command:
 npm run dev
 ```
 
-The application will be accessible at `http://localhost:3000/` in your web browser.
+The application will be accessible at `http://localhost:3001/` in your web browser.
 
 ## Technologies Used
 
