@@ -8,6 +8,9 @@ A modern, responsive banking landing page UI built from the HooBank community de
 ## Figma Design
 [View the design](https://www.figma.com/design/v0NCuttI2kd32sahpx9aaC/HooBank--Community-?node-id=0-1&p=f&t=OwbKEGVFqfTEGysQ-0)
 
+## Preview
+![HooBank Site](src/assets/hoobank-site.png)
+
 ## Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
@@ -16,10 +19,6 @@ A modern, responsive banking landing page UI built from the HooBank community de
 - Responsive layout across desktop and mobile
 - Feature blocks, billing section, testimonials, and CTA areas
 - Smooth, polished UI focused on trust, clarity, and conversion
-
-## Screenshots
-
-![HooBank Site](src/assets/hoobank-site.png)
 
 ## Getting Started
 
